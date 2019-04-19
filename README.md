@@ -160,7 +160,7 @@ iframe在不同的设备中，将会自动的调整大小。保留内边距是�
 
 ### Comment
 
-博客不仅支持 [Disqus](http://disqus.com) 评论系统,还加入了 [Gitalk](https://gitalk.github.io/) 评论系统，[支持 Markdwon 语法](https://guides.github.com/features/mastering-markdown/)，cool~
+博客评论系统 [Gitalk](https://gitalk.github.io/)，[支持 Markdwon 语法](https://guides.github.com/features/mastering-markdown/)，cool~
 
 #### Gitalk
 

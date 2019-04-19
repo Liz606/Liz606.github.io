@@ -1,7 +1,7 @@
 # Site settings
 title: Liz 小荔枝 #你博客的标题
 SEOTitle: 小荔枝的博客 | BY Liz #显示在浏览器上搜索的时候显示的标题
-header-img: img/home-bg-water.jpg #显示在首页的背景图片
+header-img: img/home-bg.jpg #显示在首页的背景图片
 email: lizbaby606@163.com
 description: "逝者已矣，来者尤可追." #网站介绍
 keyword: "Liz" #关键词
@@ -12,7 +12,7 @@ github_repo: "https://github.com/liz606/liz606.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                            # 是否开启侧边栏.
 sidebar-about-description: "如果自由很难，那么祝你平安。" # "说点装逼的话"
-sidebar-avatar: /img/avatar_g.jpg     # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
+sidebar-avatar: /img/avatar_g.png     # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 
 
 

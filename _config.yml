@@ -3,7 +3,7 @@ title: Liz 小荔枝 #你博客的标题
 SEOTitle: 小荔枝的博客 | BY Liz #显示在浏览器上搜索的时候显示的标题
 header-img: img/home-bg-water.jpg #显示在首页的背景图片
 email: lizbaby606@163.com
-description: "Every failure is leading towards success." #网站介绍
+description: "逝者已矣，来者尤可追." #网站介绍
 keyword: "Liz" #关键词
 url: "http://liz606.github.io"          # 这个就是你的博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/liz606/liz606.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                            # 是否开启侧边栏.
-sidebar-about-description: "Goals determine what you going to be!" # "说点装逼的话。。。"
+sidebar-about-description: "如果自由很难，那么祝你平安。" # "说点装逼的话"
 sidebar-avatar: /img/avatar_g.jpg     # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 
 
@@ -19,9 +19,9 @@ sidebar-avatar: /img/avatar_g.jpg     # 你的个人头像 这里你可以改成
 # SNS settings
 RSS: false
 # weibo_username:     liz
-zhihu_username:     liz
-github_username:    liz
-facebook_username:  liz
+# zhihu_username:     liz
+# github_username:    liz
+# facebook_username:  liz
 # jianshu_username:   e71990ada2fd # 在你打开你的简书主页后的地址如：http://www.jianshu.com/u/e71990ada2fd中，后面这一串数字：e71990ada2fd
 #twitter_username:   liz
 
